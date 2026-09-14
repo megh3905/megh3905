@@ -5,7 +5,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/Cyber%20Security-Enthusiast-0A66C2?style=for-the-badge" alt="Cyber Security"/>
-  <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Linux-Security-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
 
