@@ -130,11 +130,12 @@ Secured a position in the **Top 10 teams among 40+ participating teams** at a Cy
 ## 📫 Let's Connect
 
 <p align="left">
-  <a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/megh-bhavsar-115b9a2ab?utm_source=share_via&utm_content=profile&utm_medium=member_android)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/megh-bhavsar-115b9a2ab/">
+    🔗 <b>LinkedIn</b>
   </a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:meghbhavsar.work@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    📧 <b>Email</b>
   </a>
 </p>
 
