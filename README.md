@@ -131,11 +131,10 @@ Secured a position in the **Top 10 teams among 40+ participating teams** at a Cy
 
 <p align="left">
   <a href="https://www.linkedin.com/in/megh-bhavsar-115b9a2ab/">
-    🔗 <b>LinkedIn</b>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="mailto:meghbhavsar.work@gmail.com">
-    📧 <b>Email</b>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
 
