@@ -17,32 +17,67 @@
 
 ---
 
+
 ## 🚀 Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🛡️ DDoS Attack Prevention</h3>
-      <p>Python-based system for detecting SYN Flood attacks and automatically blocking malicious IPs.</p>
-      <p><b>Tech:</b> Python • Scapy • Flask • iptables</p>
-      <a href="https://github.com/megh3905/DDoS_Attack_Prevention_System">🔗 View Project</a>
-    </td>
-    <td width="50%">
-      <h3>🕵️ TrapShield</h3>
-      <p>Multi-service honeypot framework for emulating SSH, FTP, and HTTP services and analyzing attacker behavior.</p>
-      <p><b>Tech:</b> Python • Networking • Logging</p>
-      <a href="https://github.com/megh3905/TrapShield">🔗 View Project</a>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2">
-      <h3>🔍 NetSentry – Advanced Network Port Scanner</h3>
-      <p>Cross-platform Python network reconnaissance tool with TCP scanning, service detection, banner grabbing, and automated reporting.</p>
-      <p><b>Tech:</b> Python • Multithreading • Networking • Git</p>
-      <a href="https://github.com/megh3905/NetSentry">🔗 View Project</a>
-    </td>
-  </tr>
-</table>
+### 1. 🛡️ DDoS Attack Prevention System
+
+A Python-based network security project designed to detect SYN Flood attacks and automatically block malicious IP addresses, helping improve network security and threat response.
+
+**✨ Key Features**
+- 🔍 SYN Flood attack detection
+- 🚫 Automated malicious IP blocking using iptables
+- 📊 Flask dashboard with real-time attack logging
+- ⚙️ Threshold-based traffic analysis
+- 🛡️ Network security monitoring
+
+**🧰 Tech Stack:** Python • Scapy • Flask • iptables
+
+🔗 [View Project](https://github.com/megh3905/DDoS_Attack_Prevention_System)
+
+---
+
+### 2. 🕵️ TrapShield – Multi-Service Honeypot Framework
+
+> **A Python-based honeypot framework for capturing attacker behavior, analyzing suspicious activities, and supporting cybersecurity research.**
+
+TrapShield is a security-focused project that emulates multiple network services in a controlled environment to observe attacker interactions and collect valuable security data.
+
+**✨ Key Features**
+- 🧪 Multi-service honeypot supporting SSH, FTP, and HTTP
+- 🔐 Controlled service emulation for security research
+- 📝 Centralized logging and automated reporting
+- 🔎 Attacker behavior and threat analysis
+- 📂 Session tracking for monitoring suspicious activities
+- 🛡️ Isolated service environments with configurable ports
+
+**🎯 Security Applications**
+- 🔵 Blue Team: Threat Monitoring & Analysis
+- 🖥️ SOC: Security Event Investigation
+- 🕵️ Digital Forensics: Attack Evidence & Log Analysis
+- 🔴 Red Team: Understanding Attacker Techniques
+
+**🧰 Tech Stack:** Python • Networking • Logging • Security Research
+
+🔗 [View Project](https://github.com/megh3905/TrapShield)
+
+---
+
+### 3. 🔍 NetSentry – Advanced Python Network Port Scanner
+
+A modular, cross-platform Python network reconnaissance tool designed for efficient TCP port scanning, service discovery, and automated security reporting.
+
+**✨ Key Features**
+- 🌐 TCP port scanning and host discovery
+- 🔎 Service detection and banner grabbing
+- ⚡ Multithreaded concurrent scanning
+- 📄 JSON, CSV, HTML & PDF reporting
+- 📚 Scan history and logging
+- 🛠️ Exception handling and progress tracking
+
+**🧰 Tech Stack:** Python • Multithreading • Networking • Git
+
+🔗 [View Project](https://github.com/megh3905/NetSentry)
 
 ---
 
