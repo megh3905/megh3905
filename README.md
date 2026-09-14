@@ -12,7 +12,7 @@
 
 🔐 Passionate about building practical cybersecurity tools, exploring offensive and defensive security, and continuously improving my technical skills.
 
-💻 Interested in **SOC Operations, VAPT, Red Team, Blue Team, and Digital Forensics.**
+💻 Interested in **VAPT, Red Team, Blue Team, SOC Operations and Digital Forensics.**
 
 ---
 
